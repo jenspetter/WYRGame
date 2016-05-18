@@ -1,26 +1,50 @@
-TQ. Can fly
-BQ. Can teleport
+TQ. can fly
+BQ. can teleport
 
-TQ. Be the presedent of the Uninted States
-BQ. Never have to work again
+TQ. be the presedent of the Uninted States
+BQ. never have to work again
 
-TQ. Win XFactor
-BQ. Win The voice
+TQ. win XFactor
+BQ. win The voice
 
-TQ. Lick the floor at a club
-BQ. Lick a toilet seat at walmart
+TQ. lick the floor at a club
+BQ. lick a toilet seat at walmart
 
-TQ. Teach history
-BQ. Teach Math
+TQ. teach history
+BQ. teach Math
 
-TQ. Have a stomach ache
-BQ. Have a headache
+TQ. have a stomach ache
+BQ. have a headache
 
-TQ. Always tell the truth
-BQ. Always lie
+TQ. always tell the truth
+BQ. always lie
 
-TQ. Become a superhero
-BQ. Become a supervillian
+TQ. become a superhero
+BQ. become a supervillian
 
-TQ. Not know how to read
-BQ. Not know how to write
+TQ. not know how to read
+BQ. not know how to write
+
+TQ. live one life that lasts 1,000 years
+BQ. live 10 lives that last 100 years each
+
+TQ. be without elbows
+BQ. without knees
+
+TQ. have a dragon
+BQ. be a dragon
+
+TQ. have a dog with a cat’s personality
+BQ. have a cat with a dog's personality
+
+TQ. run at 100 miles an hour
+BQ. fly at 10 miles an hour
+
+TQ. be a cow
+BQ. be a chicken
+
+TQ. be invisible
+BQ. read minds
+
+TQ. have a kangaroo as pet
+BQ. have a koala as pet
